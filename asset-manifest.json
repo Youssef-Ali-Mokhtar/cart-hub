@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cart-hub/static/css/main.54705442.css",
+    "main.js": "/cart-hub/static/js/main.1b8c23b8.js",
+    "static/media/pic4.avif": "/cart-hub/static/media/pic4.17f29bf1c122d07efb76.avif",
+    "static/media/pic1.jpg": "/cart-hub/static/media/pic1.30efaf77dbf74d7a57fd.jpg",
+    "static/media/sports.jpg": "/cart-hub/static/media/sports.4c83c691f7f0d79a937b.jpg",
+    "static/media/pic3.jpg": "/cart-hub/static/media/pic3.f9164ebe816b1ae73609.jpg",
+    "static/media/pic2.jpeg": "/cart-hub/static/media/pic2.df429926e566b637c28e.jpeg",
+    "static/media/books.jpg": "/cart-hub/static/media/books.c10abddc722b3b69c077.jpg",
+    "static/media/fashion.jpg": "/cart-hub/static/media/fashion.4fabbd9204a464756307.jpg",
+    "static/media/laptops.jpg": "/cart-hub/static/media/laptops.bff7eceb1ab3030a46ed.jpg",
+    "index.html": "/cart-hub/index.html",
+    "main.54705442.css.map": "/cart-hub/static/css/main.54705442.css.map",
+    "main.1b8c23b8.js.map": "/cart-hub/static/js/main.1b8c23b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54705442.css",
+    "static/js/main.1b8c23b8.js"
+  ]
+}
